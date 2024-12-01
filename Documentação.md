@@ -2,11 +2,11 @@
 # 🚦 **Radar de Velocidade com MQTT** 📡
 
 ---
-## 👥 **Equipe**
-**Leonardo Mucci**
-**Rodrigo Veloso**
-**Juliana Alves**
-**Marcos Vinicius**
+### 👤 Integrantes:
+- Juliana Alves
+- Leonardo Mucci
+- Marcos Vinicius
+- Rodrigo Veloso
 
 ---
 ## 🌟 **Resumo do Projeto**
