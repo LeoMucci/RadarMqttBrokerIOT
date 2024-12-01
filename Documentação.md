@@ -2,7 +2,13 @@
 # 🚦 **Radar de Velocidade com MQTT** 📡
 
 ---
+## 👥 **Equipe**
+**Leonardo Mucci**
+**Rodrigo Veloso**
+**Juliana Alves**
+**Marcos Vinicius**
 
+---
 ## 🌟 **Resumo do Projeto**
 
 Este projeto simula um sistema de **radar de velocidade** que utiliza o protocolo MQTT para comunicação entre dois componentes principais:  
@@ -142,13 +148,4 @@ python receiver.py
 
 ---
 
-## 🛡️ **Próximos Passos**
-1. **Armazenamento de dados**: Adicionar um banco de dados para registrar as multas geradas.  
-2. **Integração com câmeras**: Associar as multas a imagens dos veículos.  
-3. **Escalabilidade**: Configurar múltiplos brokers para suportar rodovias maiores.
 
----
-
-Com esse sistema, mostramos como **tecnologias distribuídas** podem ser usadas para criar soluções práticas que melhoram a segurança nas estradas! 🚗💨
-
-Se tiver dúvidas ou quiser expandir o projeto, é só chamar! 🎉
