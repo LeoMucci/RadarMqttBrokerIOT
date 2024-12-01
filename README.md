@@ -7,7 +7,13 @@ Este é um projeto que simula um sistema de **radar de velocidade** para monitor
 2. **Central de Controle (Receiver):** Recebe as velocidades e verifica se estão acima do limite permitido (100 km/h).
 
 ---
+### 👤 Integrantes:
+- Juliana Alves
+- Leonardo Mucci
+- Marcos Vinicius
+- Rodrigo Veloso
 
+---
 ## 🎯 Objetivo
 
 Demonstrar como tecnologias distribuídas podem ser usadas para criar sistemas práticos, escaláveis e eficientes, com foco na segurança rodoviária.
